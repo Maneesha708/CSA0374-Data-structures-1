@@ -13,4 +13,14 @@ Stack operations,
 Stack applications,
 Queue operations,
 Tree traversal,
-Hashing.
+Hashing,
+prims algorithm,
+krushkal algorithm,
+dijstras algorithm,
+breadth first search,
+depth first search,
+avl tree,
+heap sort,
+quick sort,
+merge sort.
+
